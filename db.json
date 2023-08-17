@@ -1,0 +1,85 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "makeup",
+      "thumbnail": "https://i.ytimg.com/vi/cBCCK95IUco/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/EbcdDXEPukk"
+    },
+    {
+      "id": "5",
+      "caption": "food",
+      "thumbnail": "https://pbs.twimg.com/media/EOUWShMUwAENJbt.jpg",
+      "url": "https://www.youtube.com/embed/gBYcPvHCqiA"
+    },
+    {
+      "id": "4",
+      "caption": "V&S",
+      "thumbnail": "https://mir-s3-cdn-cf.behance.net/projects/404/fa8b3a102606941.Y3JvcCwxOTE3LDE1MDAsNDIsMA.png",
+      "url": "https://www.youtube.com/embed/tRoP0KOv6Qw"
+    }
+  ],
+  "catogories": [
+    {
+      "id": "5",
+      "categoryName": "hero",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "makeup",
+          "thumbnail": "https://i.ytimg.com/vi/cBCCK95IUco/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/EbcdDXEPukk"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "categoryName": "html",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "makeup",
+          "thumbnail": "https://i.ytimg.com/vi/cBCCK95IUco/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/EbcdDXEPukk"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "categoryName": "makeup",
+      "allVideos": []
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "cardname": "enroja",
+      "url": "https://www.youtube.com/watch?v=frHw7dS40ZQ",
+      "date": "14/8/2023"
+    },
+    {
+      "id": "c62a9648-a554-4b3a-98f4-61ba18f7282c",
+      "cardname": "makeup",
+      "url": "https://www.youtube.com/embed/EbcdDXEPukk",
+      "date": "2023-08-16T11:00:32.236Z"
+    },
+    {
+      "id": "5e3d160f-66c2-491d-aaaa-909f3cbefdf3",
+      "cardname": "makeup",
+      "url": "https://www.youtube.com/embed/EbcdDXEPukk",
+      "date": "2023-08-16T11:20:01.178Z"
+    },
+    {
+      "id": "93a509a9-31e2-4433-a110-2f6048667b05",
+      "cardname": "V&S",
+      "url": "https://www.youtube.com/embed/tRoP0KOv6Qw",
+      "date": "2023-08-16T11:20:37.815Z"
+    },
+    {
+      "id": "df45fccb-8b02-40dd-9d23-2fd2be771b09",
+      "cardname": "makeup",
+      "url": "https://www.youtube.com/embed/8uQ8fv8y5Vg",
+      "date": "2023-08-17T10:04:37.587Z"
+    }
+  ]
+}
